@@ -19,11 +19,6 @@ Auto load data from file on startup
 Save all data to file on exit
 Simple and clean menu-driven interface
 ---
-📂 File Used
-The program uses:
-students.txt
-This file stores all the student data in text format and is automatically loaded when the program starts.
----
 
 🛠 Technologies Used
 C++
@@ -31,14 +26,7 @@ File Handling (ifstream, ofstream)
 Arrays & Structs
 Basic Menu System
 ---
-📥 How to Run
-1. Copy the code into a file:
-student_profile.cpp
-2. Compile using g++:
-g++ student_profile.cpp -o student
-4. Run the program:
-./student
----
+
 📌 Future Improvements
 Update student details
 Sort students by CGPA or name
