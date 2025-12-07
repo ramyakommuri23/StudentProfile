@@ -1,11 +1,9 @@
 ****📘 Student Profile Management System (C++)
-
 A simple and beginner-friendly Student Profile Management System built using C++.
 This project allows you to store, search, display, and delete student records, along with saving the data permanently in a file.
 ---
 
 🚀Features
-
 Add multiple student profiles
 Store:
 Name:
